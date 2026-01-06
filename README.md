@@ -381,6 +381,8 @@ Master SQL from fundamentals to advanced techniques with this comprehensive tuto
 
 ---
 
+# 🛒 Retail Sales Analytics - Advanced SQL Project
+
 ## 📁 Repository Structure
 
 ```
@@ -399,11 +401,11 @@ production-grade-sql-analytics/
 │   ├── difficult-queries.sql       # Level 2: Advanced (5 queries)
 │   └── expert-queries.sql          # Level 3: Expert BI (2 queries)
 
+```
 
 ---
 
-## 🎓 Skills Validation
-
+##  Skills Validation
 This project demonstrates job-ready proficiency in:
 
 ✅ **Database Architecture**: Designing normalized schemas with proper relationships  
@@ -418,19 +420,16 @@ This project demonstrates job-ready proficiency in:
 ---
 
 ## 📄 License
-
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) - feel free to use, modify, and distribute as needed.
 
 ```
 MIT License - Copyright (c) 2024
-
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
-
 [Full MIT License text]
 ```
 
@@ -456,18 +455,17 @@ Contributions are welcome! If you'd like to improve this project:
 
 ## 👤 Author & Contact
 
-**Created by**: Krishal Karna
+**Created by**: Krishal Karna  
 **Purpose**: Professional portfolio demonstration & technical education
 
 ### 🔗 Connect With Me
 - 📝 **Blog**: [Complete SQL Tutorial Series](https://completesql.hashnode.dev/series/learn-mysql)
-- 💼 **LinkedIn**: [krishal karna](https://www.linkedin.com/in/krishalkarna) <!-- Add your LinkedIn -->
-
-- 📧 **Email**:Krishal Karna (karnakreeshal@gmail.com) <!-- Add your email -->
+- 💼 **LinkedIn**: [krishal karna](https://www.linkedin.com/in/krishalkarna)
+- 📧 **Email**: Krishal Karna (karnakreeshal@gmail.com)
 
 ---
 
-## ⭐ Acknowledgments
+## Acknowledgments
 
 - **Dataset**: Simulated retail data designed for comprehensive SQL learning
 - **Scale**: 1M+ transactions enabling realistic big data scenarios
@@ -475,7 +473,7 @@ Contributions are welcome! If you'd like to improve this project:
 
 ---
 
-## 🎯 Next Steps
+## Next Steps
 
 ### For Learners
 1. Clone this repository and set up locally
@@ -496,11 +494,6 @@ This project demonstrates:
 
 <div align="center">
 
-### ⭐ If this project helped you learn or impressed you, please star the repository! ⭐
-
-
----
-
-*Last Updated: January 2026*
+### If this project helped you learn or impressed you, please star the repository! ⭐
 
 </div>
