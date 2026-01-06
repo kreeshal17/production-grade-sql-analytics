@@ -43,8 +43,9 @@ The dataset simulates Apple's retail operations, covering:
 
 ## 🗄️ Database Architecture
 
-### Entity-Relationship Diagram
-![ER Diagram](./er_diagram.png)
+###  Entity-Relationship Diagram
+![ER Diagram](./Database%20Schema/er_diagram.png)
+
 
 ### Schema Design
 
