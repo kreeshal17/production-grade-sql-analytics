@@ -383,7 +383,7 @@ Master SQL from fundamentals to advanced techniques with this comprehensive tuto
 ## 📁 Repository Structure
 
 ```
-apple-retail-analytics/
+production-grade-sql-analytics/
 │
 ├── 📄 README.md                    # This comprehensive guide
 ├── 📄 LICENSE                      # MIT License
@@ -393,7 +393,7 @@ apple-retail-analytics/
 │   ├── indexes.sql                 # Performance optimization indexes
 │   └── er_diagram.png              # Entity-relationship diagram
 │
-├── 🔍 SQL Queries/
+├── 🔍 SQL_Queries/
 │   ├── easy-medium-queries.sql     # Level 1: Foundational (10 queries)
 │   ├── difficult-queries.sql       # Level 2: Advanced (5 queries)
 │   └── expert-queries.sql          # Level 3: Expert BI (2 queries)
